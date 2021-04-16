@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xdaisho
+- 👋 Hi, I’m Daisho
 - 👀 I’m fascinated by the Ethereum ecosystem, the decentralised web and distributed systems
 - 🌱 I’m currently learning quantitative finance and SwiftUI
 - 💞️ I’m looking to collaborate on UX and UI engineering, all things JavaScript
