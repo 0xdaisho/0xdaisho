@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daisho
-- 👀 I’m fascinated by the Ethereum ecosystem & economics and the decentralised web
-- 🌱 I’m currently learning quantitative finance and SwiftUI development
-- 💞️ I’m looking to collaborate on UX design and UI engineering
+- 👀 Fascinated by the Ethereum ecosystem & economics, and the decentralised web
+- 🌱 Learning quantitative finance and SwiftUI development
+- 💞️ UX design and UI engineering collaboration
 - 📫 Open inbox [@0xdaisho](https://twitter.com/0xdaisho)
